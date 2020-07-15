@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapFilePackage CommentCount="0" ProgramTitle="MadCap Contributor 9 r2" ProgramVersion="V1" ProductName="MadCap Contributor 9 r2" ProductVersion="9.1.7457.29016" xml:lang="en-us" OriginalPath="file:///C:/Users/madmin/Documents/MyDocument1.mcdoc" SendDate="2020-06-02T12:29:33.7859642-07:00" Author="madmin">
+    <Baggage />
+    <Variables />
+    <ConditionTags />
+    <Content />
+    <AddedMedia />
+    <ResourceFiles>
+        <File Source="Resources/PageLayouts/PageLayout.flpgl" />
+        <File Source="Resources/Stylesheets/Stylesheet.css" />
+    </ResourceFiles>
+    <AcceptedFiles />
+</MadCapFilePackage>

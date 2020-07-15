@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ca" xml:lang="ca" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="false">
+    <ProjectFile Source="Target/MyDocument1.mcdoc" Target="Target/MyDocument1.mcdoc" />
+</LingoProject>

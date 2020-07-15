@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="_Meta.xml" />
+    <Url Source="_Root.htm" />
+    <Url Source="Resources/PageLayouts/PageLayout.flpgl" />
+    <Url Source="Resources/Stylesheets/Stylesheet.css" />
+</UrlList>
